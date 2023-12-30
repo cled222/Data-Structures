@@ -1,9 +1,4 @@
-/* ***************************************************************************
- * Caiden Ledet
- * 11-6-23
- * Tree.java
- * A Tree class that performs all the functions of a list
- * **************************************************************************/
+
 class Tree
 {
     private Node root;
