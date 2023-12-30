@@ -1,9 +1,3 @@
-//*********************************************
-// Name: Caiden Ledet
-// Date: 10/27/23
-// Project Name: Stack.java
-// Assignment: Stack Programming Assignment
-//*********************************************
 
 public class Stack<type>
 {
