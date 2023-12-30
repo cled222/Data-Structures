@@ -1,9 +1,3 @@
-//********************************************
-// Name: Caiden Ledet
-// Date: 10/27/23
-// File: Queue.java
-// Assignment: Queue Programming Assignment
-//********************************************
 
 public class Queue<type>
 {
