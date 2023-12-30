@@ -1,9 +1,3 @@
-/* ***************************************************
- * Caiden Ledet
- * 10-23-23
- * List.java
- * Implements the functionality of a list onto a linked list structure that accepts any type of data
- *************************************************** */
 
 // the Node class
 class Node<type>
